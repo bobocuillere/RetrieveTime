@@ -1,6 +1,6 @@
 # Final Project Documentation
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](./Architecture.png)
 
 ## 1. Quick How to
 
